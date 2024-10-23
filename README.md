@@ -1,4 +1,4 @@
-### **NASA Kepler Exoplanet Data Analysis for Space Apps Challenge**
+### **NASA Kepler Exoplanet Data Analysis for Space Apps Hackathon**
 
 **Project Overview:**
 This project focuses on analyzing Kepler satellite data related to exoplanets, using Excel and Power BI for data cleaning and visualization. The analysis highlights various planetary characteristics such as orbital periods, radii, and eccentricity. The project was part of the NASA Space Apps Challenge, and the insights generated played a crucial role in the team's success.
